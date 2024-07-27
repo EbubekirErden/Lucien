@@ -1,0 +1,31 @@
+{
+    "Moderation" : {
+        "mute" : "Mutes a member",
+        "unmute" : "Unmutes a member",
+        "timeout" : "Timeouts a member",
+        "kick" : "Kicks chosen member",
+        "ban" : "Bans chosen member",
+        "unban" : "Unbans chosen member",
+        "clear" : "Clears provided number of messages",
+        "serverinfo" : "Shows information about the server",
+        "userinfo" : "Shows information about the user",
+        "lock" : "Locks a channel",
+        "unlock" : "Unlocks a channel",
+        "slowmode" : "Changes slow-mode settings",
+        "giverole" : "Gives a role to one or more members",
+        "takerole" : "Takes a role from a member"
+    },
+    "Fun" : {
+        "dog" : "Sends a cute dog picture",
+        "cat" : "Sends a cute cat picture",
+        "avatar" : "Shows profile picture of a member"
+    },
+    "Music" : {
+        "join" : "Joins a voice channel",
+        "leave" : "Leaves from a voice channel"
+    },
+    "Leveling" : {
+        "level" : "Shows level statistics for a member"
+    }
+
+}
