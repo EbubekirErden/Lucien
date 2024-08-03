@@ -1,4 +1,4 @@
-# Lucien
+# Lucien v1.0
 A general discord bot
 - Has leveling system with a database
 - Has fun commands such as meme, cat, and dog
